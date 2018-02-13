@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         textView=(Button)findViewById(R.id.Android);
         textView.setText("Cnu Reddy C");
         second_text=(Button)findViewById(R.id.second_tv);
-        second_text.setText("Welcome To Android");
+        second_text.setText("***** Welcome To Android *****");
 
     }
 }
