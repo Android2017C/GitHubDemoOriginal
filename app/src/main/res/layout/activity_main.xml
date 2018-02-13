@@ -8,6 +8,7 @@
     tools:context="com.example.sreenureddy.githubdemo.MainActivity">
 
    <Button
+       android:id="@+id/Android"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:text="Cnu Reddy C"/>
