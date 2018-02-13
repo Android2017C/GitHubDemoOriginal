@@ -6,7 +6,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    Button textView;
+    Button textView,second_text;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         textView=(Button)findViewById(R.id.Android);
         textView.setText("Cnu Reddy C");
+        second_text=(Button)findViewById(R.id.second_tv);
+        second_text.setText("Welcome To Android");
 
     }
 }

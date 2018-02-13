@@ -13,6 +13,7 @@
        android:layout_height="wrap_content"
        android:text="Cnu Reddy C"/>
     <Button
+        android:id="@+id/second_tv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Welcome"/>
